@@ -1,6 +1,12 @@
 name: Update Koornbeurs calendar
 
 on:
+  push:
+    paths:
+      - "koornbeurs-calendar/scrape_calendar.py"
+      - "koornbeurs-calendar/requirements.txt"
+      - "koornbeurs-calendar/tests/**"
+      - ".github/workflows/update-koornbeurs-calendar.yml"
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
