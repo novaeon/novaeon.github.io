@@ -1,0 +1,184 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Koornbeurs Calendar//Agenda Scraper 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Koornbeurs Agenda
+X-WR-TIMEZONE:Europe/Amsterdam
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:551df865cdccb07894c1344c@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260904T180000Z
+DTEND:20260904T230000Z
+SUMMARY:Kelderjam
+DESCRIPTION:On the second Friday of every month it's time to get your instr
+ uments from the attic\, dust them off and jam with other people from Delft
+  in our cozy cellar! A guitar\, a bass\, a keyboard and a drumkit are alre
+ ady present\, complete with amps and microphones.\nFree entry\n\nSource: h
+ ttps://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:088b5b739c0f481a7ff2bce4@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260905T180000Z
+DTEND:20260905T230000Z
+SUMMARY:Metalcafé
+DESCRIPTION:Dutch Angle Collective presents: 4 hardcore bands take over MET
+ ALCAFÉ in this ULTRA-VIOLENT edition.\n@deafenedtodeath\n@whiteknucklegri
+ phc\n@spit.mdhc\n@backhoeloader.slam\nDamage: €7\,-\nDoors: 20:00\nFirst
+  band: 20:30\nPoster by: @joey_roodenburg\n\nSource: https://koornbeurs.nl
+ /agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4d97d89953289cfca39bdf@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260907T180000Z
+DTEND:20260907T230000Z
+SUMMARY:Boardgame Basement
+DESCRIPTION:It's the first Monday of the month again\, and that means it's 
+ boardgame basement! Come play boardgames in our basement!\nFree Entry\n\nS
+ ource: https://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b8b3c37cfe4f14604a63d25@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260911T180000Z
+DTEND:20260911T230000Z
+SUMMARY:Swiss Punk bandnight
+DESCRIPTION:Its time for punk\, this time with bands coming all the way fro
+ m switserland\nLine up and more details TBA\n\nSource: https://koornbeurs.
+ nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:2714d974b4c9f132fdf9e82a@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260912T080000Z
+DTEND:20260912T160000Z
+SUMMARY:Open Monumenten Dagen
+DESCRIPTION:More than 5000 monuments all over the country open their doors\
+ , and the Koornbeurs is one of them! Visit us this weekend to admire the a
+ rchitecture and history of our building\, join a tour\, or simply come by 
+ to have a drink at the bar and enjoy live band performances.\n\nSource: ht
+ tps://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:75e9c3257dc09dff3b9b0a17@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260912T190000Z
+DTEND:20260913T010000Z
+SUMMARY:Lahvoid
+DESCRIPTION:Its time for italian techno in our historic basment\nLine up an
+ d more details TBA\n\nSource: https://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ed97e3c062bacc6d299ec09@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260913T100000Z
+DTEND:20260913T160000Z
+SUMMARY:Open Monumenten Dagen
+DESCRIPTION:More than 5000 monuments all over the country open their doors\
+ , and the Koornbeurs is one of them! Visit us this weekend to admire the a
+ rchitecture and history of our building\, join a tour\, or simply come by 
+ to have a drink at the bar and enjoy live band performances.\n\nSource: ht
+ tps://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7fb284c4bc00b9a137321f5@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20260913T130000Z
+DTEND:20260913T160000Z
+SUMMARY:Oud leden borrel
+DESCRIPTION:The Stofki is organizing a borrel for the old members\, if you 
+ where ever an old member feel free to swing by for a fun borrel.\n\nSource
+ : https://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:18c355ac32bfd4e5da66b045@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20261113T190000Z
+DTEND:20261114T010000Z
+SUMMARY:Redux Party
+DESCRIPTION:Our oldest dispute Redux is organizing a party and you are all 
+ invited.\nLine up and more details TBA\n\nSource: https://koornbeurs.nl/ag
+ enda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6e020bf7ba166c945edb6ae@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20261114T193000Z
+DTEND:20261114T223000Z
+SUMMARY:Metalcafé
+DESCRIPTION:The second Saturday of the month is the time for our recurring 
+ metal night. Come along to enjoy a variety of live music from great bands\
+ ; all subgenres are welcome!\nLine up and more details TBA\n\nSource: http
+ s://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:06f8f6daf9bdd15c24b63761@koornbeurs-calendar
+DTSTAMP:20260825T160553Z
+LAST-MODIFIED:20260825T160553Z
+DTSTART:20261212T193000Z
+DTEND:20261213T000000Z
+SUMMARY:Metalcafé
+DESCRIPTION:The second Saturday of the month is the time for our recurring 
+ metal night. Come along to enjoy a variety of live music from great bands\
+ ; all subgenres are welcome!\nLine up and more details TBA\n\nSource: http
+ s://koornbeurs.nl/agenda/
+LOCATION:O.J.V. De Koornbeurs\, Voldersgracht 1\, 2611 ET Delft
+URL:https://koornbeurs.nl/agenda/
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
