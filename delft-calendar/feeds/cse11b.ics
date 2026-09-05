@@ -30,10 +30,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260901T134500Z
 DTEND:20260901T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -41,8 +41,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -51,10 +51,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260902T084500Z
 DTEND:20260902T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -62,8 +62,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -72,10 +72,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260904T084500Z
 DTEND:20260904T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -83,8 +83,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -93,10 +93,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20260904T114500Z
 DTEND:20260904T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -105,8 +105,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -115,10 +115,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260907T084500Z
 DTEND:20260907T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -126,8 +126,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -136,10 +136,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260909T084500Z
 DTEND:20260909T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -147,8 +147,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -157,10 +157,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260911T084500Z
 DTEND:20260911T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -168,8 +168,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -178,10 +178,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20260911T114500Z
 DTEND:20260911T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -190,8 +190,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -200,10 +200,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260914T084500Z
 DTEND:20260914T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -211,8 +211,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -221,10 +221,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260916T084500Z
 DTEND:20260916T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -232,8 +232,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -242,10 +242,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260918T084500Z
 DTEND:20260918T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -253,8 +253,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -263,10 +263,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20260918T114500Z
 DTEND:20260918T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -275,8 +275,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -285,10 +285,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260921T084500Z
 DTEND:20260921T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -296,8 +296,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -306,10 +306,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260923T084500Z
 DTEND:20260923T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -317,8 +317,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -327,10 +327,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20260925T084500Z
 DTEND:20260925T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -338,8 +338,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -348,10 +348,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20260925T114500Z
 DTEND:20260925T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBQGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -360,8 +360,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -370,10 +370,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Exam
 DTSTART:20261001T070000Z
 DTEND:20261001T083000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBRGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
   CSE11B\n\nLocation(s):\nCEG-Computer Room 0.20 (23.HG.0.20): https://esvi
  ewer.tudelft.nl/space/107\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.
@@ -385,8 +385,8 @@ DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
  programma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nMidterm (Programming)\n\n
  Study guide CSE11B: https://studiegids2526.tudelft.nl/courses/deeplink?cod
  e=CSE11B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronis
- ed on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:IDE-Computer Rooms Ctrl/Enter/Shift (32.D-0-120/32.D-0-040/32.D-0
  -160)\, Drebbelweg-Hall 1 (35.0.030)\, CEG-Computer Room 0.20 (23.HG.0.20)
 STATUS:CONFIRMED
@@ -396,10 +396,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261005T084500Z
 DTEND:20261005T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -407,8 +407,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -417,10 +417,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261007T084500Z
 DTEND:20261007T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -428,8 +428,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -438,10 +438,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261009T084500Z
 DTEND:20261009T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -449,8 +449,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -459,10 +459,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20261009T114500Z
 DTEND:20261009T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBQGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -471,8 +471,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -481,10 +481,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261012T084500Z
 DTEND:20261012T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -492,8 +492,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -502,10 +502,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261014T084500Z
 DTEND:20261014T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -513,8 +513,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -523,10 +523,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261016T084500Z
 DTEND:20261016T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEEMCS-Le
  cture Hall Ampere (36.HB.01.670): https://esviewer.tudelft.nl/space/49\nEE
  MCS-Lecture Hall Boole (36.HB.T0.610): https://esviewer.tudelft.nl/space/5
@@ -536,8 +536,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEEMCS-Le
  6/2027)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy
   guide CSE11B: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE
  11B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on
-  2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:EEMCS-Lecture Hall Boole (36.HB.T0.610)\, EEMCS-Lecture Hall Ampe
  re (36.HB.01.670)
 STATUS:CONFIRMED
@@ -547,10 +547,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20261016T114500Z
 DTEND:20261016T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBQGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -559,8 +559,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -569,10 +569,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261019T084500Z
 DTEND:20261019T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEEMCS-Le
  cture Hall Ampere (36.HB.01.670): https://esviewer.tudelft.nl/space/49\nEE
  MCS-Lecture Hall Boole (36.HB.T0.610): https://esviewer.tudelft.nl/space/5
@@ -582,8 +582,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEEMCS-Le
  6/2027)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy
   guide CSE11B: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE
  11B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on
-  2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:EEMCS-Lecture Hall Boole (36.HB.T0.610)\, EEMCS-Lecture Hall Ampe
  re (36.HB.01.670)
 STATUS:CONFIRMED
@@ -593,10 +593,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261020T113000Z
 DTEND:20261020T133000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBTGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
   CSE11B\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
  delft.nl/space/15\nDrebbelweg-PC Hall 2 (35.0.200): https://esviewer.tudel
@@ -610,8 +610,8 @@ DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
  S/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAIT (vanaf B
  Sc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegids2526.tudelft.n
  l/courses/deeplink?code=CSE11B\n\nThis appointment is managed by MyTimetab
- le.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ le.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)\, IDE-Computer Room Ctrl (32.D-0-120
  )\, Fellowship-Studio Classroom 2 (66.2.140)\, Fellowship-Studio Classroom
   1 (66.2.350)\, Drebbelweg-PC Hall 2 (35.0.200)\, IDE-Computer Room Enter 
@@ -623,10 +623,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261021T084500Z
 DTEND:20261021T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -634,8 +634,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -644,10 +644,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261023T084500Z
 DTEND:20261023T104500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -655,8 +655,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -665,10 +665,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20261023T114500Z
 DTEND:20261023T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBQGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -677,8 +677,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -687,10 +687,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261026T094500Z
 DTEND:20261026T114500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJXHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -698,8 +698,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -708,10 +708,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261028T094500Z
 DTEND:20261028T114500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJYG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -719,8 +719,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -729,10 +729,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming
 DTSTART:20261030T094500Z
 DTEND:20261030T114500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4DSOJZGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Overklift 
  Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s): EEMCS-Bachelor Y
@@ -740,8 +740,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11B\n\nLocation(s):\nEcho-Lec
  akelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS
  /DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B: https://studiegid
  s2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is manag
- ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ ed by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -750,10 +750,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Programming Practice
 DTSTART:20261030T124500Z
 DTEND:20261030T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBQGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux 
  Hall C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff mem
  ber(s): Overklift Vaupel Klein\, T.A.R.\, Zaidman\, A.E.\n\nStudent set(s)
@@ -762,8 +762,8 @@ DESCRIPTION:Type: Additional\n\nCourse code: CSE11B\n\nLocation(s):\nFlux
  chakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nStudy guide CSE11B:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11B\n\nThis ap
  pointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 at
-  17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+  22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -772,10 +772,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Exam
 DTSTART:20261103T123000Z
 DTEND:20261103T153000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBSGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
   CSE11B\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
  delft.nl/space/15\nDrebbelweg-PC Hall 2 (35.0.200): https://esviewer.tudel
@@ -787,8 +787,8 @@ DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
  mma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nEndterm (Theoretical)\n\nStudy 
  guide CSE11B: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE1
  1B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 
- 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:IDE-Computer Rooms Ctrl/Enter/Shift (32.D-0-120/32.D-0-040/32.D-0
  -160)\, Drebbelweg-Hall 1 (35.0.030)\, Drebbelweg-PC Hall 2 (35.0.200)
 STATUS:CONFIRMED
@@ -798,10 +798,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Exam
 DTSTART:20261104T080000Z
 DTEND:20261104T110000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBSGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
   CSE11B\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
  delft.nl/space/15\nDrebbelweg-PC Hall 2 (35.0.200): https://esviewer.tudel
@@ -813,8 +813,8 @@ DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
  mma CS/DSAIT (vanaf BSc TW) (2026/2027)\n\nEndterm (Programming exam)\n\nS
  tudy guide CSE11B: https://studiegids2526.tudelft.nl/courses/deeplink?code
  =CSE11B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronise
- d on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ d on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:IDE-Computer Rooms Ctrl/Enter/Shift (32.D-0-120/32.D-0-040/32.D-0
  -160)\, Drebbelweg-Hall 1 (35.0.030)\, Drebbelweg-PC Hall 2 (35.0.200)
 STATUS:CONFIRMED
@@ -824,10 +824,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Resit
 DTSTART:20270106T123000Z
 DTEND:20270106T153000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBSGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
   CSE11B\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
  delft.nl/space/15\n\nStaff member(s): Overklift Vaupel Klein\, T.A.R.\, Za
@@ -836,8 +836,8 @@ DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
  naf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (202
  6/2027)\n\nTheoretical\n\nStudy guide CSE11B: https://studiegids2526.tudel
  ft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is managed by MyTim
- etable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ etable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -846,10 +846,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11B - Introduction to Programming - Resit
 DTSTART:20270107T123000Z
 DTEND:20270107T153000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TAMBSGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
   CSE11B\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
  delft.nl/space/15\n\nStaff member(s): Overklift Vaupel Klein\, T.A.R.\, Za
@@ -858,8 +858,8 @@ DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
  naf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (202
  6/2027)\n\nProgramming\n\nStudy guide CSE11B: https://studiegids2526.tudel
  ft.nl/courses/deeplink?code=CSE11B\n\nThis appointment is managed by MyTim
- etable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ etable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)
 STATUS:CONFIRMED
 TRANSP:OPAQUE

@@ -30,10 +30,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260901T114500Z
 DTEND:20260901T134500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -41,8 +41,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -51,10 +51,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260902T064500Z
 DTEND:20260902T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRXGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEEMCS-Le
  cture Hall Ampere (36.HB.01.670): https://esviewer.tudelft.nl/space/49\nEE
  MCS-Lecture Hall Boole (36.HB.T0.610): https://esviewer.tudelft.nl/space/5
@@ -63,8 +63,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEEMCS-Le
   (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf AI programm
  e) (2026/2027)\n\nStudy guide CSE11C: https://studiegids2526.tudelft.nl/co
  urses/deeplink?code=CSE11C\n\nThis appointment is managed by MyTimetable.\
- n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:EEMCS-Lecture Hall Boole (36.HB.T0.610)\, EEMCS-Lecture Hall Ampe
  re (36.HB.01.670)
 STATUS:CONFIRMED
@@ -74,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260903T064500Z
 DTEND:20260903T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRRGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -85,8 +85,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -95,10 +95,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260903T114500Z
 DTEND:20260903T124500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -113,8 +113,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  -BSc-Y1-TI-Gr. E1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStud
  y guide CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CS
  E11C\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised o
- n 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ n 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -123,10 +123,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260907T114500Z
 DTEND:20260907T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -136,8 +136,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -147,10 +147,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260908T114500Z
 DTEND:20260908T134500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -158,8 +158,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -168,10 +168,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260910T064500Z
 DTEND:20260910T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRRGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -179,8 +179,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -189,10 +189,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260910T114500Z
 DTEND:20260910T124500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -207,8 +207,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  -BSc-Y1-TI-Gr. E1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStud
  y guide CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CS
  E11C\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised o
- n 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ n 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -217,10 +217,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260914T114500Z
 DTEND:20260914T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -230,8 +230,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -241,10 +241,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260915T114500Z
 DTEND:20260915T134500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -252,8 +252,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -262,10 +262,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260917T064500Z
 DTEND:20260917T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRRG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -273,8 +273,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -283,10 +283,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260917T114500Z
 DTEND:20260917T124500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRVGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -301,8 +301,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  -BSc-Y1-TI-Gr. E1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStud
  y guide CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CS
  E11C\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised o
- n 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ n 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -311,10 +311,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260921T114500Z
 DTEND:20260921T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -324,8 +324,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -335,10 +335,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260922T114500Z
 DTEND:20260922T134500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -346,8 +346,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -356,10 +356,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260924T064500Z
 DTEND:20260924T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRRHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -367,8 +367,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -377,10 +377,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20260924T114500Z
 DTEND:20260924T124500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRVGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -395,8 +395,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  -BSc-Y1-TI-Gr. E1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStud
  y guide CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CS
  E11C\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised o
- n 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ n 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -405,10 +405,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation - Exam
 DTSTART:20260930T070000Z
 DTEND:20260930T083000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRXHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
   CSE11C\n\nLocation(s):\nFlux Hall C (39.00.00.300): https://esviewer.tude
  lft.nl/space/211/\nFlux Hall D (39.00.00.200): https://esviewer.tudelft.nl
@@ -418,8 +418,8 @@ DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
  T (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf AI program
  me) (2026/2027)\n\nMidterm\n\nStudy guide CSE11C: https://studiegids2526.t
  udelft.nl/courses/deeplink?code=CSE11C\n\nThis appointment is managed by M
- yTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ yTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall D (39.00.00.200)\, X-Sports Hall 1 (jan-37)\, Flux Hall
   C (39.00.00.300)
 STATUS:CONFIRMED
@@ -429,10 +429,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261005T114500Z
 DTEND:20261005T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -442,8 +442,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -453,10 +453,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261006T114500Z
 DTEND:20261006T134500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -464,8 +464,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -474,10 +474,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261008T064500Z
 DTEND:20261008T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRRHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -485,8 +485,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -495,10 +495,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261008T141500Z
 DTEND:20261008T151500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRVGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -514,8 +514,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  hakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CSE11
  C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nThis 
  appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 
- at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -524,10 +524,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261012T114500Z
 DTEND:20261012T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -537,8 +537,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -548,10 +548,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261013T114500Z
 DTEND:20261013T134500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -559,8 +559,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -569,10 +569,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261015T064500Z
 DTEND:20261015T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -580,8 +580,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -590,10 +590,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261015T141500Z
 DTEND:20261015T151500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRVGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -609,8 +609,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  hakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CSE11
  C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nThis 
  appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 
- at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -619,10 +619,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261019T114500Z
 DTEND:20261019T154500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -632,8 +632,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -643,10 +643,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261020T064500Z
 DTEND:20261020T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRTGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -654,8 +654,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -664,10 +664,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261022T064500Z
 DTEND:20261022T084500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -675,8 +675,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -685,10 +685,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261022T141500Z
 DTEND:20261022T151500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRVGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -704,8 +704,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  hakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CSE11
  C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nThis 
  appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 
- at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -714,10 +714,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261026T124500Z
 DTEND:20261026T164500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRUGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -727,8 +727,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE11C\n\nLocation(s):\nFlux H
  \, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy gui
  de CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\
  n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 202
- 6-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 6-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -738,10 +738,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261027T124500Z
 DTEND:20261027T144500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -749,8 +749,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -759,10 +759,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261029T074500Z
 DTEND:20261029T094500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRSGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Asadi\, A.
  \, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS-Bachelor Y1 TI 
@@ -770,8 +770,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE11C\n\nLocation(s):\nEcho-Lec
   schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CS
  E11C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nTh
  is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-
- 05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ 05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -780,10 +780,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation
 DTSTART:20261029T151500Z
 DTEND:20261029T161500Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRVGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  ll B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff membe
  r(s): Asadi\, A.\, Power\, A.\, Visser\, ir. O.W.\n\nStudent set(s): EEMCS
@@ -799,8 +799,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11C\n\nLocation(s):\nFlux Ha
  hakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nStudy guide CSE11
  C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11C\n\nThis 
  appointment is managed by MyTimetable.\n\nLast synchronised on 2026-09-05 
- at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -809,10 +809,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation - Exam
 DTSTART:20261105T080000Z
 DTEND:20261105T110000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRXHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
   CSE11C\n\nLocation(s):\nEcho-Hall B (29.01.100/29.01.200)\nX-Sports Hall 
  1 (jan-37): https://esviewer.tudelft.nl/space/182\n\nStaff member(s): Asad
@@ -821,8 +821,8 @@ DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
  )\, WO schakelprogramma DSAIT (vanaf AI programme) (2026/2027)\n\nEndterm\
  n\nStudy guide CSE11C: https://studiegids2526.tudelft.nl/courses/deeplink?
  code=CSE11C\n\nThis appointment is managed by MyTimetable.\n\nLast synchro
- nised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ nised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:X-Sports Hall 1 (jan-37)\, Echo-Hall B (29.01.100/29.01.200)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -831,10 +831,10 @@ BEGIN:VEVENT
 SUMMARY:CSE11C - Computer Organisation - Resit
 DTSTART:20270105T080000Z
 DTEND:20270105T110000Z
-DTSTAMP:20260905T154743Z
+DTSTAMP:20260905T204144Z
 UID:TimeEdit!GU4TCNRYGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20260905T154743Z
+CREATED:20260905T204144Z
 DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
   CSE11C\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
  delft.nl/space/15\n\nStaff member(s): Asadi\, A.\, Power\, A.\, Visser\, i
@@ -842,8 +842,8 @@ DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
  ogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (v
  anaf AI programme) (2026/2027)\n\nStudy guide CSE11C: https://studiegids25
  26.tudelft.nl/courses/deeplink?code=CSE11C\n\nThis appointment is managed 
- by MyTimetable.\n\nLast synchronised on 2026-09-05 at 17:47 CEST
-LAST-MODIFIED:20260905T154743Z
+ by MyTimetable.\n\nLast synchronised on 2026-09-05 at 22:41 CEST
+LAST-MODIFIED:20260905T204144Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
