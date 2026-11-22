@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//Timetable Splitter//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:CSE11A — Reasoning & Logic
+X-WR-CALNAME:CSE12A — Calculus
 X-PUBLISHED-TTL:PT6H
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VTIMEZONE
@@ -27,637 +27,626 @@ TZOFFSETTO:+0100
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260901T084500Z
-DTEND:20260901T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYGM@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261109T074500Z
+DTEND:20261109T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZVGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260903T084500Z
-DTEND:20260903T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGE@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261110T124500Z
+DTEND:20261110T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJSGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20260903T130000Z
-DTEND:20260903T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRGM@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261111T074500Z
+DTEND:20261111T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260908T084500Z
-DTEND:20260908T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYGQ@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261116T074500Z
+DTEND:20261116T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZVGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260910T084500Z
-DTEND:20260910T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGI@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261117T124500Z
+DTEND:20261117T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJSGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20260910T130000Z
-DTEND:20260910T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRGQ@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261118T074500Z
+DTEND:20261118T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260915T084500Z
-DTEND:20260915T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYGU@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261123T074500Z
+DTEND:20261123T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZVG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260917T084500Z
-DTEND:20260917T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGM@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261124T124500Z
+DTEND:20261124T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJSG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20260917T130000Z
-DTEND:20260917T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRGU@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261125T074500Z
+DTEND:20261125T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260922T084500Z
-DTEND:20260922T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYGY@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261127T074500Z
+DTEND:20261127T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GY3TGNJQGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Lecture\n\nCourse code: CSE12A\n\nLocation(s):\nEEMCS-Le
+ cture Hall Pi (36.HB.01.580): https://esviewer.tudelft.nl/space/53\n\nStaf
+ f member(s): Gemert\, dr. J.C. van\n\nStudent set(s): EEMCS-Bachelor Y1 TI
+  (2026/2027)\n\nStudy guide CSE12A: https://studiegids2526.tudelft.nl/cour
+ ses/deeplink?code=CSE12A\n\nThis appointment is managed by MyTimetable.\n\
+ nLast synchronised on 2026-11-22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:EEMCS-Lecture Hall Pi (36.HB.01.580)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20260924T084500Z
-DTEND:20260924T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGQ@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261130T074500Z
+DTEND:20261130T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZVHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20260924T130000Z
-DTEND:20260924T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRGY@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261201T124500Z
+DTEND:20261201T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJSHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Exam
-DTSTART:20260928T070000Z
-DTEND:20260928T090000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRQG4@mytimetable.tudelft.nl
+SUMMARY:CSE12A - Calculus
+DTSTART:20261202T074500Z
+DTEND:20261202T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus - Exam
+DTSTART:20261209T123000Z
+DTEND:20261209T143000Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJXGY@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
 DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
-  CSE11A\n\nLocation(s):\nX-Sports Hall 3 (mars-37): https://esviewer.tudel
- ft.nl/space/184\n\nStaff member(s): Dumancic\, S.\, Hugtenburg\, S.\, York
- e-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, HBO sch
- akelprogramma CESE vanaf TI (2026/2027)\, HBO schakelprogramma CS (vanaf B
- Sc TI) (2026/2027)\n\nMidterm\n\nStudy guide CSE11A: https://studiegids252
- 6.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is managed b
- y MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
+  CSE12A\n\nLocation(s):\nEcho-Hall B (29.01.100/29.01.200)\nX-Sports Hall 
+ 1 (jan-37): https://esviewer.tudelft.nl/space/182\n\nStaff member(s): Klei
+ jn\, N. de\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-Bachelor Y1 TI (20
+ 26/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO schakelpro
+ gramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE12A: https://studie
+ gids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nThis appointment is ma
+ naged by MyTimetable.\n\nLast synchronised on 2026-11-22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall B (29.01.100/29.01.200)\, X-Sports Hall 1 (jan-37)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20261214T074500Z
+DTEND:20261214T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZVHE@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20261215T124500Z
+DTEND:20261215T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJSHE@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20261216T074500Z
+DTEND:20261216T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVG4@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270104T074500Z
+DTEND:20270104T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZWGA@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270105T124500Z
+DTEND:20270105T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJTGA@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270105T144500Z
+DTEND:20270105T164500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GY3TGNBZGU@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Lecture\n\nCourse code: CSE12A\n\nLocation(s):\nCEG-Lect
+ ure Hall G (23.S2.1.38): https://esviewer.tudelft.nl/space/34\n\nStaff mem
+ ber(s): Feld\, S.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, HB
+ O schakelprogramma CESE vanaf TI (2026/2027)\, HBO schakelprogramma CS (va
+ naf BSc TI) (2026/2027)\n\nStudy guide CSE12A: https://studiegids2526.tude
+ lft.nl/courses/deeplink?code=CSE12A\n\nThis appointment is managed by MyTi
+ metable.\n\nLast synchronised on 2026-11-22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:CEG-Lecture Hall G (23.S2.1.38)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270106T074500Z
+DTEND:20270106T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVHA@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270111T074500Z
+DTEND:20270111T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZWGE@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270112T124500Z
+DTEND:20270112T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJTGE@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270112T144500Z
+DTEND:20270112T164500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GY3TGNJQGU@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Lecture\n\nCourse code: CSE12A\n\nLocation(s):\nME-Lectu
+ re Hall D - James Watt (34.A-0-520): https://esviewer.tudelft.nl/space/8\n
+ \nStaff member(s): Fokkink\, dr.ir. R.J.\n\nStudent set(s): EEMCS-Bachelor
+  Y1 TI (2026/2027)\n\nStudy guide CSE12A: https://studiegids2526.tudelft.n
+ l/courses/deeplink?code=CSE12A\n\nThis appointment is managed by MyTimetab
+ le.\n\nLast synchronised on 2026-11-22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:ME-Lecture Hall D - James Watt (34.A-0-520)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270113T074500Z
+DTEND:20270113T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBVHE@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270118T074500Z
+DTEND:20270118T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKMZWGI@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall F (29.02.020): https://esviewer.tudelft.nl/space/205/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall F (29.02.020)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270119T124500Z
+DTEND:20270119T144500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJTGI@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus
+DTSTART:20270120T074500Z
+DTEND:20270120T094500Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNBWGA@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Colstructie\n\nCourse code: CSE12A\n\nLocation(s):\nEcho
+ -Hall D (29.02.010): https://esviewer.tudelft.nl/space/203/\n\nStaff membe
+ r(s): Murakami\, Y.\, Teacher-WSO-EWI\,\n\nStudent set(s): EEMCS-BSc-Y1-TI
+ -Gr. C1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027)\, EEMCS-BSc-Y1-TI
+ -Gr. D1 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027)\n\nStudy guide CS
+ E12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12A\n\nTh
+ is appointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-
+ 22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:Echo-Hall D (29.02.010)
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CSE12A - Calculus - Exam
+DTSTART:20270128T080000Z
+DTEND:20270128T110000Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJXG4@mytimetable.tudelft.nl
+SEQUENCE:0
+CREATED:20261122T213750Z
+DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
+  CSE12A\n\nLocation(s):\nX-Sports Hall 3 (mars-37): https://esviewer.tudel
+ ft.nl/space/184\n\nStaff member(s): Kleijn\, N. de\, Teacher-WSO-EWI\,\n\n
+ Student set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, HBO schakelprogramma CE
+ SE vanaf TI (2026/2027)\, HBO schakelprogramma CS (vanaf BSc TI) (2026/202
+ 7)\n\nStudy guide CSE12A: https://studiegids2526.tudelft.nl/courses/deepli
+ nk?code=CSE12A\n\nThis appointment is managed by MyTimetable.\n\nLast sync
+ hronised on 2026-11-22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
 LOCATION:X-Sports Hall 3 (mars-37)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261006T084500Z
-DTEND:20261006T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYG4@mytimetable.tudelft.nl
+SUMMARY:[DRAFT] CSE12A - Calculus - Resit
+DTSTART:20270416T070000Z
+DTEND:20270416T100000Z
+DTSTAMP:20261122T213750Z
+UID:TimeEdit!GU4DKNJXHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261008T084500Z
-DTEND:20261008T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGU@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20261008T130000Z
-DTEND:20261008T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRG4@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261013T084500Z
-DTEND:20261013T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYHA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261015T084500Z
-DTEND:20261015T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGY@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20261015T130000Z
-DTEND:20261015T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRHA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261020T084500Z
-DTEND:20261020T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJYHE@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261022T084500Z
-DTEND:20261022T104500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZG4@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20261022T130000Z
-DTEND:20261022T140000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRRHE@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261027T094500Z
-DTEND:20261027T114500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZGA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic
-DTSTART:20261029T094500Z
-DTEND:20261029T114500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMJZHA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEcho-Lec
- ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Dumancic\,
-  S.\, Hugtenburg\, S.\, Yorke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor
-  Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO 
- schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: http
- s://studiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appoint
- ment is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:5
- 7 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Acing R&L
-DTSTART:20261029T140000Z
-DTEND:20261029T150000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRSGA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Tutorial\n\nCourse code: CSE11A\n\nLocation(s):\nFlux Ha
- ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
- r(s): Hugtenburg\, S.\n\nStudent set(s): EEMCS-BSc-Y1-TI-Gr. A1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. A3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. A4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. B3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. B4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. C3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. C4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D2 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. D3 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. D4 (2026/2027)\, EEMCS-BSc-Y1-TI-Gr. E1 (2026/2027
- )\, EEMCS-BSc-Y1-TI-Gr. E2 (2026/2027)\n\nStudy guide CSE11A: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:Flux Hall C (39.00.00.300)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Exam
-DTSTART:20261102T080000Z
-DTEND:20261102T110000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRQHA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
+CREATED:20261122T213750Z
 DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
-  CSE11A\n\nLocation(s):\nX-Sports Hall 3 (mars-37): https://esviewer.tudel
- ft.nl/space/184\n\nStaff member(s): Dumancic\, S.\, Hugtenburg\, S.\, York
- e-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, HBO sch
- akelprogramma CESE vanaf TI (2026/2027)\, HBO schakelprogramma CS (vanaf B
- Sc TI) (2026/2027)\n\nEndterm\n\nStudy guide CSE11A: https://studiegids252
- 6.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment is managed b
- y MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:X-Sports Hall 3 (mars-37)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Guest Lecture: Game Theory
-DTSTART:20261110T074500Z
-DTEND:20261110T094500Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GY3DIOBVGA@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Lecture\n\nCourse code: CSE11A\n\nLocation(s):\nEEMCS-Le
- cture Hall Ampere (36.HB.01.670): https://esviewer.tudelft.nl/space/49\n\n
- Staff member(s): Kreveld\, I.D. van\n\nStudent set(s): EEMCS-Bachelor Y1 T
- I (2026/2027)\, HBO schakelprogramma CESE vanaf TI (2026/2027)\, HBO schak
- elprogramma CS (vanaf BSc TI) (2026/2027)\n\nStudy guide CSE11A: https://s
- tudiegids2526.tudelft.nl/courses/deeplink?code=CSE11A\n\nThis appointment 
- is managed by MyTimetable.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:EEMCS-Lecture Hall Ampere (36.HB.01.670)
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSE11A - Reasoning & Logic - Resit
-DTSTART:20270104T123000Z
-DTEND:20270104T153000Z
-DTSTAMP:20261122T195710Z
-UID:TimeEdit!GU4DMMRQHE@mytimetable.tudelft.nl
-SEQUENCE:0
-CREATED:20261122T195710Z
-DESCRIPTION:Type: Written Exam with registration on campus\n\nCourse code:
-  CSE11A\n\nLocation(s):\nAS-Exam Hall 4.25 (22.F.425): https://esviewer.tu
- delft.nl/space/96\n\nStaff member(s): Dumancic\, S.\, Hugtenburg\, S.\, Yo
- rke-Smith\, N.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, HBO s
- chakelprogramma CESE vanaf TI (2026/2027)\, HBO schakelprogramma CS (vanaf
-  BSc TI) (2026/2027)\n\nStudy guide CSE11A: https://studiegids2526.tudelft
- .nl/courses/deeplink?code=CSE11A\n\nThis appointment is managed by MyTimet
- able.\n\nLast synchronised on 2026-11-22 at 20:57 CET
-LAST-MODIFIED:20261122T195710Z
-LOCATION:AS-Exam Hall 4.25 (22.F.425)
+  CSE12A\n\nStaff member(s): Kleijn\, N. de\, Teacher-WSO-EWI\,\n\nStudent 
+ set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, HBO schakelprogramma CESE vanaf
+  TI (2026/2027)\, HBO schakelprogramma CS (vanaf BSc TI) (2026/2027)\n\nSt
+ udy guide CSE12A: https://studiegids2526.tudelft.nl/courses/deeplink?code=
+ CSE12A\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised
+  on 2026-11-22 at 22:37 CET
+LAST-MODIFIED:20261122T213750Z
+LOCATION:
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
