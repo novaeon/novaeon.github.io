@@ -4,9 +4,9 @@ Subscribe separately to these feeds using Google Calendar **Other calendars → 
 
 | Feed | Subscription URL |
 | --- | --- |
-| CSE11A | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/cse11a.ics |
-| CSE11B | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/cse11b.ics |
-| CSE11C | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/cse11c.ics |
+| CSE12A — Calculus | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/cse11a.ics |
+| CSE12B — HAIP | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/cse11b.ics |
+| CSE12C — Data Management | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/cse11c.ics |
 | Shared / Misc | https://raw.githubusercontent.com/novaeon/novaeon.github.io/main/delft-calendar/feeds/misc.ics |
 
 Pick a different colour for each subscription. Hide or unsubscribe from the original combined calendar to avoid showing everything twice. Use subscriptions, not one-time file imports. HTTPS works in Google Calendar; clients that request webcal can use the same URL with `webcal://` in place of `https://`.
@@ -24,8 +24,8 @@ The initial feeds are a snapshot. Until the secret is added, the workflow tests 
 ## Change courses next term
 
 Edit [filters.toml](https://github.com/novaeon/novaeon.github.io/edit/main/delft-calendar/filters.toml).
-For example change `name = "CSE11A — Reasoning & Logic"` to `name = "Calculus"` and
-`codes = ["CSE11A"]` to `codes = ["CSE12A"]`. Commit to main.
+For example change `name = "CSE12A — Calculus"` to `name = "Calculus"` and
+`codes = ["CSE12A"]` to `codes = ["CSE12A"]`. Commit to main.
 Keep the section heading `[courses.cse11a]` unchanged to keep the same subscription URL;
 the file ID is just a stable slot. Some calendar apps cache display names, so you may
 also want to rename the subscription in the app. To add another feed, add a new
@@ -33,7 +33,7 @@ also want to rename the subscription in the app. To add another feed, add a new
 
 The configurable `shared_pattern` is checked first. An event matching it, more than one course,
 or none of the configured courses goes into `misc`. Current shared lab titles match that pattern.
-Exact, case-insensitive code matching prevents CSE11A from matching CSE11AA. Matching fields are
+Exact, case-insensitive code matching prevents CSE12A from matching CSE12AA. Matching fields are
 also configurable. Single-course tutorials and exams stay with that course. Unrecognised
 future courses go into Misc until you configure them. Each event family goes into exactly one
 feed. Recurrence exceptions remain with their parent series.
