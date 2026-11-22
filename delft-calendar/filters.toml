@@ -1,6 +1,6 @@
 # Edit this file on GitHub, then commit. The next run applies the new rules.
 # Keep the section IDs (cse11a, cse11b, cse11c) to keep subscription URLs working.
-# Next term, e.g. change name to "Calculus" and codes to ["CSE12A"].
+# Next term, change the names and codes while keeping those section IDs.
 
 [routing]
 fields = ["SUMMARY", "DESCRIPTION"]
@@ -9,13 +9,13 @@ shared_pattern = '(?i)\bshared\s+lab\b'
 misc_name = "Shared labs & Misc"
 
 [courses.cse11a]
-name = "CSE11A — Reasoning & Logic"
-codes = ["CSE11A"]
+name = "CSE12A — Calculus"
+codes = ["CSE12A"]
 
 [courses.cse11b]
-name = "CSE11B — Introduction to Programming"
-codes = ["CSE11B"]
+name = "CSE12B — HAIP"
+codes = ["CSE12B"]
 
 [courses.cse11c]
-name = "CSE11C — Computer Organisation"
-codes = ["CSE11C"]
+name = "CSE12C — Data Management"
+codes = ["CSE12C"]
