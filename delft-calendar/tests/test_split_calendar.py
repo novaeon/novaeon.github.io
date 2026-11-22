@@ -39,8 +39,8 @@ def source(*events):
 class SplitTests(unittest.TestCase):
     def test_routing(self):
         for title, expected in [
-            ('CSE12A - Lecture', 'cse11a'), ('cse11b - Exam', 'cse11b'),
-            ('CSE12C - Tutorial', 'cse11c'), ('CSE12A - Calculus', 'misc'),
+            ('CSE12A - Lecture', 'cse11a'), ('CSE12B - Exam', 'cse11b'),
+            ('CSE12C - Tutorial', 'cse11c'), ('CSE12A - Calculus', 'cse11a'),
             ('Mentorate', 'misc'), ('CSE12AA', 'misc'),
             ('CSE12A/CSE12B - Shared lab', 'misc'),
             ('CSE12A/CSE12B/CSE12C - Shared lab', 'misc'),
