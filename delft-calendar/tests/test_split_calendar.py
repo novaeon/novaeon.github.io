@@ -39,34 +39,34 @@ def source(*events):
 class SplitTests(unittest.TestCase):
     def test_routing(self):
         for title, expected in [
-            ('CSE11A - Lecture', 'cse11a'), ('cse11b - Exam', 'cse11b'),
-            ('CSE11C - Tutorial', 'cse11c'), ('CSE12A - Calculus', 'misc'),
-            ('Mentorate', 'misc'), ('CSE11AA', 'misc'),
-            ('CSE11A/CSE11B - Shared lab', 'misc'),
-            ('CSE11A/CSE11B/CSE11C - Shared lab', 'misc'),
-            ('CSE11A shared lab', 'misc'), ('CSE11A / CSE11B - Combined', 'misc'),
+            ('CSE12A - Lecture', 'cse11a'), ('cse11b - Exam', 'cse11b'),
+            ('CSE12C - Tutorial', 'cse11c'), ('CSE12A - Calculus', 'misc'),
+            ('Mentorate', 'misc'), ('CSE12AA', 'misc'),
+            ('CSE12A/CSE12B - Shared lab', 'misc'),
+            ('CSE12A/CSE12B/CSE12C - Shared lab', 'misc'),
+            ('CSE12A shared lab', 'misc'), ('CSE12A / CSE12B - Combined', 'misc'),
         ]:
             with self.subTest(title=title):
                 self.assertEqual(classify([event(title)], CONFIG), expected)
 
     def test_description_only_course_code(self):
-        self.assertEqual(classify([event('Lecture', description='Course code: CSE11B')], CONFIG), 'cse11b')
+        self.assertEqual(classify([event('Lecture', description='Course code: CSE12B')], CONFIG), 'cse11b')
 
     def test_next_term_config_keeps_url_slot(self):
         config = copy.deepcopy(CONFIG)
-        config['courses']['cse11a'] = {'name': 'Calculus', 'codes': ['CSE12A']}
-        result = split_feed(source(event('CSE12A - Calculus')), config)
+        config['courses']['cse11a'] = {'name': 'Next Calculus', 'codes': ['CSE13A']}
+        result = split_feed(source(event('CSE13A - Next Calculus')), config)
         self.assertEqual(len(Calendar.from_ical(result['cse11a']).walk('VEVENT')), 1)
-        self.assertEqual(str(Calendar.from_ical(result['cse11a'])['X-WR-CALNAME']), 'Calculus')
+        self.assertEqual(str(Calendar.from_ical(result['cse11a'])['X-WR-CALNAME']), 'Next Calculus')
 
     def test_no_dropped_or_duplicate_events_and_lossless_roundtrip(self):
-        events = [event('CSE11A', 'a'), event('CSE11B', 'b'), event('CSE11C', 'c'), event('Shared lab', 'd')]
+        events = [event('CSE12A', 'a'), event('CSE12B', 'b'), event('CSE12C', 'c'), event('Shared lab', 'd')]
         results = split_feed(source(*events), CONFIG)
         recovered = [item for data in results.values() for item in Calendar.from_ical(data).walk('VEVENT')]
         self.assertCountEqual([item.to_ical() for item in events], [item.to_ical() for item in recovered])
 
     def test_recurrence_exception_cancellation_and_alarm(self):
-        master = event('CSE11A', 'series')
+        master = event('CSE12A', 'series')
         master.add('RRULE', {'FREQ': 'WEEKLY', 'COUNT': 4})
         alarm = Alarm()
         alarm.add('ACTION', 'DISPLAY')
@@ -91,7 +91,7 @@ class SplitTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             validate_config(config)
         config = copy.deepcopy(CONFIG)
-        config['courses']['cse11b']['codes'] = ['CSE11A']
+        config['courses']['cse11b']['codes'] = ['CSE12A']
         with self.assertRaises(ValueError):
             validate_config(config)
 
@@ -112,7 +112,7 @@ class SplitTests(unittest.TestCase):
 
     def test_private_url_in_event_blocks_publication(self):
         with self.assertRaises(ValueError):
-            split_feed(source(event('CSE11A', description='https://mytimetable.tudelft.nl/ical?eu=secret')), CONFIG)
+            split_feed(source(event('CSE12A', description='https://mytimetable.tudelft.nl/ical?eu=secret')), CONFIG)
 
 
 if __name__ == '__main__':
