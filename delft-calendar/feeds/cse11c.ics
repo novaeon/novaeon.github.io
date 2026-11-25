@@ -30,10 +30,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261110T094500Z
 DTEND:20261110T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -41,9 +41,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -52,10 +52,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261113T094500Z
 DTEND:20261113T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -63,9 +63,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -74,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261116T134500Z
 DTEND:20261116T143000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTQNRSG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
  r(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s)
@@ -94,8 +94,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (van
  af BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids
  2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is manage
- d by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ d by MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -104,10 +104,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261117T094500Z
 DTEND:20261117T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -115,9 +115,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -126,10 +126,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261120T094500Z
 DTEND:20261120T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -137,9 +137,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -148,10 +148,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261120T124500Z
 DTEND:20261120T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C 
  (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff member(s):
@@ -161,8 +161,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy gu
  ide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C
  \n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 20
- 26-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ 26-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -171,10 +171,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261123T134500Z
 DTEND:20261123T143000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTQNRSHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
  r(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s)
@@ -191,8 +191,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (van
  af BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids
  2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is manage
- d by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ d by MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -201,10 +201,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261124T094500Z
 DTEND:20261124T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -212,9 +212,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -223,10 +223,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261127T094500Z
 DTEND:20261127T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -234,9 +234,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -245,10 +245,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261127T124500Z
 DTEND:20261127T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C 
  (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff member(s):
@@ -258,8 +258,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy gu
  ide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C
  \n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 20
- 26-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ 26-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -268,10 +268,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261130T134500Z
 DTEND:20261130T143000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTQNRSHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
  r(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s)
@@ -288,8 +288,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (van
  af BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids
  2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is manage
- d by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ d by MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -298,10 +298,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261201T094500Z
 DTEND:20261201T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -309,9 +309,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -320,10 +320,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261204T094500Z
 DTEND:20261204T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -331,9 +331,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -342,10 +342,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261204T124500Z
 DTEND:20261204T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C 
  (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff member(s):
@@ -355,8 +355,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy gu
  ide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C
  \n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 20
- 26-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ 26-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -365,21 +365,21 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management - Exam
 DTSTART:20261207T080000Z
 DTEND:20261207T093000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
-DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
-  CSE12C\n\nLocation(s):\nCEG-Computer Room 0.20 (23.HG.0.20): https://esvi
- ewer.tudelft.nl/space/107\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.
- tudelft.nl/space/15\n\nStaff member(s): Katsifodimos\, dr. A.\, Lofi\, dr.
-  C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO 
- schakelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma
-  CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BS
- c NB\, BSc LST) (2026/2027)\n\nMidterm\n\nStudy guide CSE12C: https://stud
- iegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is 
- managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+CREATED:20261125T090533Z
+DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12C\n\
+ nLocation(s):\nCEG-Computer Room 0.20 (23.HG.0.20): https://esviewer.tudel
+ ft.nl/space/107\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tudelft.nl
+ /space/15\n\nStaff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Powe
+ r\, A.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO schakelpro
+ gramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAIT 
+ (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc
+  LST) (2026/2027)\n\nMidterm\n\nStudy guide CSE12C: https://studiegids2526
+ .tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is managed by
+  MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)\, CEG-Computer Room 0.20 (23.HG.0.20
  )
 STATUS:CONFIRMED
@@ -389,10 +389,10 @@ BEGIN:VEVENT
 SUMMARY:[DRAFT] CSE12C - Data Management
 DTSTART:20261214T124500Z
 DTEND:20261214T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GY3TGNJRGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\n\nStaff memb
  er(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s
@@ -401,8 +401,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  27)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nSt
  udy guide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=
  CSE12C\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised
-  on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+  on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -411,10 +411,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261214T134500Z
 DTEND:20261214T143000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTQNRTGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
  r(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s)
@@ -431,8 +431,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (van
  af BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids
  2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is manage
- d by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ d by MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -441,10 +441,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261215T094500Z
 DTEND:20261215T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nARCH-Lec
  ture Hall A (08.01.Oost.240): https://esviewer.tudelft.nl/space/105\n\nSta
  ff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStuden
@@ -453,8 +453,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nARCH-Lec
  2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027
  )\n\nStudy guide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplin
  k?code=CSE12C\n\nThis appointment is managed by MyTimetable.\n\nLast synch
- ronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ ronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:ARCH-Lecture Hall A (08.01.Oost.240)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -463,10 +463,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20261218T094500Z
 DTEND:20261218T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEEMCS-Le
  cture Hall Ampere (36.HB.01.670): https://esviewer.tudelft.nl/space/49\n\n
  Staff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStu
@@ -475,8 +475,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEEMCS-Le
  ) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2
  027)\n\nStudy guide CSE12C: https://studiegids2526.tudelft.nl/courses/deep
  link?code=CSE12C\n\nThis appointment is managed by MyTimetable.\n\nLast sy
- nchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ nchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:EEMCS-Lecture Hall Ampere (36.HB.01.670)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -485,10 +485,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270107T094500Z
 DTEND:20270107T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTANRWGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -496,9 +496,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -507,10 +507,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270108T094500Z
 DTEND:20270108T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -518,9 +518,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -529,10 +529,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270108T124500Z
 DTEND:20270108T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C 
  (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff member(s):
@@ -542,8 +542,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy gu
  ide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C
  \n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 20
- 26-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ 26-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -552,10 +552,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270111T134500Z
 DTEND:20270111T143000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTQNRTGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
  r(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s)
@@ -572,8 +572,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (van
  af BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids
  2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is manage
- d by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ d by MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -582,10 +582,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270112T094500Z
 DTEND:20270112T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -593,9 +593,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -604,10 +604,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270115T094500Z
 DTEND:20270115T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -615,9 +615,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -626,10 +626,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270115T124500Z
 DTEND:20270115T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C 
  (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff member(s):
@@ -639,8 +639,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy gu
  ide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C
  \n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 20
- 26-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ 26-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -649,10 +649,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270118T134500Z
 DTEND:20270118T143000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GYZTQNRTGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ll C (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff membe
  r(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s)
@@ -669,8 +669,8 @@ DESCRIPTION:Type: Tutorial\n\nCourse code: CSE12C\n\nLocation(s):\nFlux Ha
  ramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (van
  af BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids
  2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is manage
- d by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ d by MyTimetable.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -679,10 +679,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270119T094500Z
 DTEND:20270119T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJUHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -690,9 +690,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -701,10 +701,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270122T094500Z
 DTEND:20270122T114500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJVGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Katsifodim
  os\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor
@@ -712,9 +712,9 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12C\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelp
  rogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C:
   https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis ap
- pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-24 at
-  23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ pointment is managed by MyTimetable.\n\nLast synchronised on 2026-11-25 at
+  10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -723,10 +723,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management
 DTSTART:20270122T124500Z
 DTEND:20270122T164500Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
+CREATED:20261125T090533Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  all B (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C 
  (39.00.00.300): https://esviewer.tudelft.nl/space/211/\n\nStaff member(s):
@@ -736,8 +736,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12C\n\nLocation(s):\nFlux H
  WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy gu
  ide CSE12C: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12C
  \n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 20
- 26-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+ 26-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -746,21 +746,21 @@ BEGIN:VEVENT
 SUMMARY:CSE12C - Data Management - Exam
 DTSTART:20270126T173000Z
 DTEND:20270126T203000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
-DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
-  CSE12C\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
- delft.nl/space/15\nDrebbelweg-Hall 2 (35.0.160): https://esviewer.tudelft.
- nl/space/47\n\nStaff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Po
- wer\, A.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO schakelp
- rogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAI
- T (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, B
- Sc LST) (2026/2027)\n\nEndterm\n\nStudy guide CSE12C: https://studiegids25
- 26.tudelft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is managed 
- by MyTimetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+CREATED:20261125T090533Z
+DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12C\n\
+ nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tudelft.nl/s
+ pace/15\nDrebbelweg-Hall 2 (35.0.160): https://esviewer.tudelft.nl/space/4
+ 7\n\nStaff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\, A.\n
+ \nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO schakelprogramma C
+ S/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAIT (vanaf B
+ Sc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2
+ 026/2027)\n\nEndterm\n\nStudy guide CSE12C: https://studiegids2526.tudelft
+ .nl/courses/deeplink?code=CSE12C\n\nThis appointment is managed by MyTimet
+ able.\n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)\, Drebbelweg-Hall 2 (35.0.160)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -769,20 +769,20 @@ BEGIN:VEVENT
 SUMMARY:[DRAFT] CSE12C - Data Management - Resit
 DTSTART:20270408T070000Z
 DTEND:20270408T100000Z
-DTSTAMP:20261124T224405Z
+DTSTAMP:20261125T090533Z
 UID:TimeEdit!GU4TENJWHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261124T224405Z
-DESCRIPTION:Type: Digital Exam with registration on campus\n\nCourse code:
-  CSE12C\n\nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tu
- delft.nl/space/15\n\nStaff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C
- .\, Power\, A.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO sc
- hakelprogramma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma C
- S/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc 
- NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids2526.tu
- delft.nl/courses/deeplink?code=CSE12C\n\nThis appointment is managed by My
- Timetable.\n\nLast synchronised on 2026-11-24 at 23:44 CET
-LAST-MODIFIED:20261124T224405Z
+CREATED:20261125T090533Z
+DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12C\n\
+ nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tudelft.nl/s
+ pace/15\n\nStaff member(s): Katsifodimos\, dr. A.\, Lofi\, dr. C.\, Power\
+ , A.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO schakelprogr
+ amma CS/DSAIT (vanaf BSc EE) (2026/2027)\, WO schakelprogramma CS/DSAIT (v
+ anaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc L
+ ST) (2026/2027)\n\nStudy guide CSE12C: https://studiegids2526.tudelft.nl/c
+ ourses/deeplink?code=CSE12C\n\nThis appointment is managed by MyTimetable.
+ \n\nLast synchronised on 2026-11-25 at 10:05 CET
+LAST-MODIFIED:20261125T090533Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
