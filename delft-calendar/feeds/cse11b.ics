@@ -30,10 +30,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261109T094500Z
 DTEND:20261109T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -42,8 +42,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -52,10 +52,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261111T094500Z
 DTEND:20261111T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -64,8 +64,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -74,10 +74,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261111T124500Z
 DTEND:20261111T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -88,8 +88,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -99,10 +99,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261116T094500Z
 DTEND:20261116T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -111,8 +111,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -121,10 +121,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261118T094500Z
 DTEND:20261118T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -133,8 +133,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -143,10 +143,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261118T124500Z
 DTEND:20261118T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -157,8 +157,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -168,10 +168,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261123T094500Z
 DTEND:20261123T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -180,8 +180,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -190,10 +190,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261125T094500Z
 DTEND:20261125T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -202,8 +202,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -212,10 +212,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261125T124500Z
 DTEND:20261125T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -226,8 +226,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -237,10 +237,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261130T094500Z
 DTEND:20261130T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -249,8 +249,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -259,10 +259,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261202T094500Z
 DTEND:20261202T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -271,8 +271,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -281,10 +281,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261202T124500Z
 DTEND:20261202T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGI@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -295,8 +295,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -306,10 +306,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261210T074500Z
 DTEND:20261210T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Presentation\n\nCourse code: CSE12B\n\nLocation(s):\nAS-
  Classroom 12 (22.F.104): https://esviewer.tudelft.nl/space/87\nAS-Classroo
  m 3 (22.F.105): https://esviewer.tudelft.nl/space/94\nEcho-Hall C (29.02.0
@@ -321,8 +321,8 @@ DESCRIPTION:Type: Presentation\n\nCourse code: CSE12B\n\nLocation(s):\nAS-
  chakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide 
  CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=CSE12B\n\n
  This appointment is managed by MyTimetable.\n\nLast synchronised on 2026-1
- 1-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ 1-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:AS-Classroom 3 (22.F.105)\, Echo-Hall C (29.02.050)\, Echo-Hall D
   (29.02.010)\, AS-Classroom 12 (22.F.104)
 STATUS:CONFIRMED
@@ -332,10 +332,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261211T074500Z
 DTEND:20261211T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Presentation\n\nCourse code: CSE12B\n\nLocation(s):\nAS-
  Classroom 12 (22.F.104): https://esviewer.tudelft.nl/space/87\nDrebbelweg-
  Instruction Room 1 (35.1.140): https://esviewer.tudelft.nl/space/103\nDreb
@@ -347,8 +347,8 @@ DESCRIPTION:Type: Presentation\n\nCourse code: CSE12B\n\nLocation(s):\nAS-
  rogramma CS/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (
  vanaf BSc NB\, BSc LST) (2026/2027)\n\nStudy guide CSE12B: https://studieg
  ids2526.tudelft.nl/courses/deeplink?code=CSE12B\n\nThis appointment is man
- aged by MyTimetable.\n\nLast synchronised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ aged by MyTimetable.\n\nLast synchronised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Drebbelweg-Instruction Room 1 (35.1.140)\, ME-Lecture Hall E - Ro
  bert Hooke (34.A-0-710)\, Drebbelweg-Instruction Room 3 (35.1.160)\, AS-Cl
  assroom 12 (22.F.104)
@@ -359,10 +359,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261214T094500Z
 DTEND:20261214T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nPathe De
  lft-Hall 1 (Pathe-Hall 1): https://esviewer.tudelft.nl/space/178\n\nStaff 
  member(s): Gadiraju\, U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M
@@ -371,8 +371,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nPathe De
  naf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LS
  T) (2026/2027)\n\nStudy guide CSE12B: https://studiegids2526.tudelft.nl/co
  urses/deeplink?code=CSE12B\n\nThis appointment is managed by MyTimetable.\
- n\nLast synchronised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ n\nLast synchronised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Pathe Delft-Hall 1 (Pathe-Hall 1)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -381,10 +381,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261216T094500Z
 DTEND:20261216T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nAula-Lec
  ture Hall B (20.02.430): https://esviewer.tudelft.nl/space/26\n\nStaff mem
  ber(s): Gadiraju\, U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.
@@ -393,8 +393,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nAula-Lec
   BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) 
  (2026/2027)\n\nStudy guide CSE12B: https://studiegids2526.tudelft.nl/cours
  es/deeplink?code=CSE12B\n\nThis appointment is managed by MyTimetable.\n\n
- Last synchronised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ Last synchronised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Aula-Lecture Hall B (20.02.430)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -403,10 +403,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20261216T124500Z
 DTEND:20261216T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGM@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -417,8 +417,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -428,10 +428,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270104T094500Z
 DTEND:20270104T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -440,8 +440,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -450,10 +450,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270106T094500Z
 DTEND:20270106T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -462,8 +462,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -472,10 +472,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270106T124500Z
 DTEND:20270106T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGQ@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -486,8 +486,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -497,10 +497,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270111T094500Z
 DTEND:20270111T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBUHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -509,8 +509,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -519,10 +519,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270113T094500Z
 DTEND:20270113T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVG4@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -531,8 +531,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -541,10 +541,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270113T124500Z
 DTEND:20270113T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGU@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -555,8 +555,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -566,10 +566,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270118T094500Z
 DTEND:20270118T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVGA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -578,8 +578,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -588,10 +588,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270120T094500Z
 DTEND:20270120T114500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBVHA@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  ture Hall A (29.01.500/29.01.600/29.01.700)\n\nStaff member(s): Gadiraju\,
   U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tielman\, M.L.\n\nStudent set(s)
@@ -600,8 +600,8 @@ DESCRIPTION:Type: Lecture\n\nCourse code: CSE12B\n\nLocation(s):\nEcho-Lec
  7)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n\nStu
  dy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?code=C
  SE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised 
- on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Echo-Lecture Hall A (29.01.500/29.01.600/29.01.700)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -610,10 +610,10 @@ BEGIN:VEVENT
 SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping
 DTSTART:20270120T124500Z
 DTEND:20270120T164500Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWGY@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  all A (39.00.00.500): https://esviewer.tudelft.nl/space/209/\nFlux Hall B 
  (39.00.00.400): https://esviewer.tudelft.nl/space/210/\nFlux Hall C (39.00
@@ -624,8 +624,8 @@ DESCRIPTION:Type: Practicum\n\nCourse code: CSE12B\n\nLocation(s):\nFlux H
  6/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\, BSc LST) (2026/2027)\n
  \nStudy guide CSE12B: https://studiegids2526.tudelft.nl/courses/deeplink?c
  ode=CSE12B\n\nThis appointment is managed by MyTimetable.\n\nLast synchron
- ised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ ised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Flux Hall C (39.00.00.300)\, Flux Hall B (39.00.00.400)\, Flux Ha
  ll A (39.00.00.500)
 STATUS:CONFIRMED
@@ -636,10 +636,10 @@ SUMMARY:CSE12B - Human Computer Interaction and AI-Assisted Prototyping -
  Exam
 DTSTART:20270125T080000Z
 DTEND:20270125T110000Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GU4TENBWHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12B\n\
  nLocation(s):\nDrebbelweg-Hall 1 (35.0.030): https://esviewer.tudelft.nl/s
  pace/15\nDrebbelweg-Hall 2 (35.0.160): https://esviewer.tudelft.nl/space/4
@@ -649,8 +649,8 @@ DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12B\n\
  S/DSAIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc 
  NB\, BSc LST) (2026/2027)\n\nEndterm\n\nStudy guide CSE12B: https://studie
  gids2526.tudelft.nl/courses/deeplink?code=CSE12B\n\nThis appointment is ma
- naged by MyTimetable.\n\nLast synchronised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ naged by MyTimetable.\n\nLast synchronised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:Drebbelweg-Hall 1 (35.0.030)\, Drebbelweg-Hall 2 (35.0.160)
 STATUS:CONFIRMED
 TRANSP:OPAQUE
@@ -660,10 +660,10 @@ SUMMARY:[DRAFT] CSE12B - Human Computer Interaction and AI-Assisted Protot
  yping - Resit
 DTSTART:20270414T113000Z
 DTEND:20270414T143000Z
-DTSTAMP:20261126T085152Z
+DTSTAMP:20261126T215340Z
 UID:TimeEdit!GY2TSNJYHE@mytimetable.tudelft.nl
 SEQUENCE:0
-CREATED:20261126T085152Z
+CREATED:20261126T215340Z
 DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12B\n\
  nStaff member(s): Gadiraju\, U.K.\, Overklift Vaupel Klein\, T.A.R.\, Tiel
  man\, M.L.\n\nStudent set(s): EEMCS-Bachelor Y1 TI (2026/2027)\, WO schake
@@ -671,8 +671,8 @@ DESCRIPTION:Type: Digital Exam with registration\n\nCourse code: CSE12B\n\
  AIT (vanaf BSc TW) (2026/2027)\, WO schakelprogramma DSAIT (vanaf BSc NB\,
   BSc LST) (2026/2027)\n\nStudy guide CSE12B: https://studiegids2526.tudelf
  t.nl/courses/deeplink?code=CSE12B\n\nThis appointment is managed by MyTime
- table.\n\nLast synchronised on 2026-11-26 at 09:51 CET
-LAST-MODIFIED:20261126T085152Z
+ table.\n\nLast synchronised on 2026-11-26 at 22:53 CET
+LAST-MODIFIED:20261126T215340Z
 LOCATION:
 STATUS:CONFIRMED
 TRANSP:OPAQUE
